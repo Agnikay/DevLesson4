@@ -1,0 +1,6 @@
+D:\MC\Lectures\Dev\Lesson4\LessonCode\Lesson4Code\bin\Debug\Lesson4Code.exe.config
+D:\MC\Lectures\Dev\Lesson4\LessonCode\Lesson4Code\bin\Debug\Lesson4Code.exe
+D:\MC\Lectures\Dev\Lesson4\LessonCode\Lesson4Code\bin\Debug\Lesson4Code.pdb
+D:\MC\Lectures\Dev\Lesson4\LessonCode\Lesson4Code\obj\Debug\Lesson4Code.csprojResolveAssemblyReference.cache
+D:\MC\Lectures\Dev\Lesson4\LessonCode\Lesson4Code\obj\Debug\Lesson4Code.exe
+D:\MC\Lectures\Dev\Lesson4\LessonCode\Lesson4Code\obj\Debug\Lesson4Code.pdb
